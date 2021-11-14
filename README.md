@@ -19,6 +19,9 @@ The JSON data incloulds id, items ,diteals about the buyer ,loaction and adress.
 The fairebase got and save all the data then we use to reddis that he our middelware and connect all the tools.
 Every packege got unique QR code that represent the data and the tracking status.
 
+**The main page - Dashboard  :**
+![WhatsApp Image 2021-11-14 at 14 15 27](https://user-images.githubusercontent.com/74238558/141681902-a3dbea93-e7ad-47ee-a14d-034be4e8100e.jpeg)
+
 **Unique QR Shipping Status :**
 ![WhatsApp Image 2021-11-14 at 14 15 47](https://user-images.githubusercontent.com/74238558/141680652-6ae029fc-8935-4e5c-8c9c-4c454b2adc1a.jpeg)
 
