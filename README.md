@@ -42,8 +42,7 @@ We presented the results we got on a page called Analytical as mentioned above.
 
 
 
-
 # Participants
-Elad Vaknin
-Gidon Avziz
-Liad Nagi
+- Elad Vaknin
+- Gidon Avziz
+- Liad Nagi
